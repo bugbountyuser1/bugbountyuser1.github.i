@@ -1,4 +1,3 @@
 [submodule "asdf"]
 	path = asdf
-	url = https://ssrf.localdomain.pw/img-without-body/301-http-zorjtqkd2w1i5agqc1rwevpo9ff73w.burpcollaborator.net-.i.jpg
-	branch = asasasasas
+	url = git://github.com/chneukirchen/rack.git
