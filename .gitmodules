@@ -1,0 +1,3 @@
+[submodule "$PATH"]
+	path = $PATH
+	url = git://github.com/chneukirchen/rack.git
