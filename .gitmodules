@@ -1,9 +1,4 @@
-[submodule "rackaa"]
-	path = rack
-	url = git://github.com/chneukirchen/rack.git
-[submodule "asdf"]
-	path = asdf
-	url = git://github.com/chneukirchen/rack.git
+
 [submodule "<%= 7 * 7 %>"]
 	path = <%= 7 * 7 %>
 	url = git://github.com/chneukirchen/rack.git
