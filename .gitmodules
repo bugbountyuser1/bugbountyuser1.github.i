@@ -1,4 +1,3 @@
 [submodule "asdf"]
 	path = asdf
-	url = http://pun9zgq38m78b0mgirxmklvef5lw9l.burpcollaborator.net
-	
+	url = .
