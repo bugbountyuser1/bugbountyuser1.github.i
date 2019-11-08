@@ -1,3 +1,3 @@
 [submodule "aa/f./testing$PATH"]
-	path = asdf
+	path = $PATH
 	url = git://github.com/chneukirchen/rack.git
