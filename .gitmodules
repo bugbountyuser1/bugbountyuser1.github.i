@@ -1,3 +1,6 @@
-[submodule "$PATH"]
+[submodule "\$PATH"]
 	path = $PATH
+	url = git://github.com/chneukirchen/rack.git
+[submodule "asdf$PATH"]
+	path = asdf$PATH
 	url = git://github.com/chneukirchen/rack.git
