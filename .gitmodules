@@ -1,4 +1,4 @@
-[submodule #"asdf"]
+[submodule ]#"asdf"]
 	path = asdf
 	url = git://github.com/chneukirchen/rack.git
 	branch = asasasasas
