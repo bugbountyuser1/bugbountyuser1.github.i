@@ -1,3 +1,0 @@
-[submodule "aa/f./testing$PATH"]
-	path = $PATH
-	url = git://github.com/chneukirchen/rack.git
